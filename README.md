@@ -52,7 +52,7 @@ Add `SKAdNetworkIdentifier` to your Info.plist
          // Existing repos here
          // ...
          
-         maven { url "https://dl.bintray.com/ironsource-mobile/android-sdk" }
+         maven { url "https://android-sdk.is.com/" }
      }
  }
  ```
@@ -122,7 +122,7 @@ Add `SKAdNetworkIdentifier` to your Info.plist
   Add a repo to your `app/build.gradle` file 
   ```
   repositories {
-      maven { url "https://dl.bintray.com/ironsource-mobile/android-sdk" }
+      maven { url "https://android-sdk.is.com/" }
   }
   ```
 </details>
